@@ -1,3 +1,8 @@
+/*
+Author: Dean Greenhough 2019
+*/
+
+
 /*Versions
    1.0.0  Intial
    1.0.1  Added WDT in callback function as freezing - set to 10secs
